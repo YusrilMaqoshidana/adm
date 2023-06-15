@@ -1,0 +1,23 @@
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\bin\Debug\net6.0-windows\homepage admin.exe
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\bin\Debug\net6.0-windows\homepage admin.deps.json
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\bin\Debug\net6.0-windows\homepage admin.runtimeconfig.json
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\bin\Debug\net6.0-windows\homepage admin.dll
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\bin\Debug\net6.0-windows\homepage admin.pdb
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.csproj.AssemblyReference.cache
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage_admin.Form1.resources
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage_admin.Properties.Resources.resources
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.csproj.GenerateResource.cache
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.AssemblyInfoInputs.cache
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.AssemblyInfo.cs
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.csproj.CoreCompileInputs.cache
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.dll
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\obj\Debug\net6.0-windows\refint\homepage admin.dll
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.pdb
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.genruntimeconfig.cache
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\obj\Debug\net6.0-windows\ref\homepage admin.dll
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\bin\Debug\net6.0-windows\Guna.UI2.dll
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\bin\Debug\net6.0-windows\System.Management.dll
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.csproj.CopyComplete
+D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage_admin.Form2.resources

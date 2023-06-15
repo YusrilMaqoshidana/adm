@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WBW18pqsc2GhEXjYZMS2vzvtGRsPbblWsxU6l6EFfr1F0OqhFKiGoyVkC/8FWwJoLf3g9oJgKKVUo5dyulK5Ag==",
+  "success": true,
+  "projectFilePath": "D:\\Kul\\S2\\PBO\\Tugas\\homepage admin\\homepage admin\\homepage admin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LENOVO\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.4\\guna.ui2.winforms.2.0.4.4.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\LENOVO\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
