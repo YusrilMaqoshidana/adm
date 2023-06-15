@@ -21,3 +21,26 @@ D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\bin\Debug\net6.0-windows\Syste
 D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
 D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.csproj.CopyComplete
 D:\Kul\S2\PBO\Tugas\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage_admin.Form2.resources
+E:\kuliah\SEM 2\PBO\File Codingan\pbooo\homepage admin\homepage admin\bin\Debug\net6.0-windows\homepage admin.exe
+E:\kuliah\SEM 2\PBO\File Codingan\pbooo\homepage admin\homepage admin\bin\Debug\net6.0-windows\homepage admin.deps.json
+E:\kuliah\SEM 2\PBO\File Codingan\pbooo\homepage admin\homepage admin\bin\Debug\net6.0-windows\homepage admin.runtimeconfig.json
+E:\kuliah\SEM 2\PBO\File Codingan\pbooo\homepage admin\homepage admin\bin\Debug\net6.0-windows\homepage admin.dll
+E:\kuliah\SEM 2\PBO\File Codingan\pbooo\homepage admin\homepage admin\bin\Debug\net6.0-windows\homepage admin.pdb
+E:\kuliah\SEM 2\PBO\File Codingan\pbooo\homepage admin\homepage admin\bin\Debug\net6.0-windows\Guna.UI2.dll
+E:\kuliah\SEM 2\PBO\File Codingan\pbooo\homepage admin\homepage admin\bin\Debug\net6.0-windows\System.Management.dll
+E:\kuliah\SEM 2\PBO\File Codingan\pbooo\homepage admin\homepage admin\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+E:\kuliah\SEM 2\PBO\File Codingan\pbooo\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.csproj.AssemblyReference.cache
+E:\kuliah\SEM 2\PBO\File Codingan\pbooo\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage_admin.Form1.resources
+E:\kuliah\SEM 2\PBO\File Codingan\pbooo\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage_admin.Form2.resources
+E:\kuliah\SEM 2\PBO\File Codingan\pbooo\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage_admin.Properties.Resources.resources
+E:\kuliah\SEM 2\PBO\File Codingan\pbooo\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.csproj.GenerateResource.cache
+E:\kuliah\SEM 2\PBO\File Codingan\pbooo\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.GeneratedMSBuildEditorConfig.editorconfig
+E:\kuliah\SEM 2\PBO\File Codingan\pbooo\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.AssemblyInfoInputs.cache
+E:\kuliah\SEM 2\PBO\File Codingan\pbooo\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.AssemblyInfo.cs
+E:\kuliah\SEM 2\PBO\File Codingan\pbooo\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.csproj.CoreCompileInputs.cache
+E:\kuliah\SEM 2\PBO\File Codingan\pbooo\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.csproj.CopyComplete
+E:\kuliah\SEM 2\PBO\File Codingan\pbooo\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.dll
+E:\kuliah\SEM 2\PBO\File Codingan\pbooo\homepage admin\homepage admin\obj\Debug\net6.0-windows\refint\homepage admin.dll
+E:\kuliah\SEM 2\PBO\File Codingan\pbooo\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.pdb
+E:\kuliah\SEM 2\PBO\File Codingan\pbooo\homepage admin\homepage admin\obj\Debug\net6.0-windows\homepage admin.genruntimeconfig.cache
+E:\kuliah\SEM 2\PBO\File Codingan\pbooo\homepage admin\homepage admin\obj\Debug\net6.0-windows\ref\homepage admin.dll

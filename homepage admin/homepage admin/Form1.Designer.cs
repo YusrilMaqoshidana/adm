@@ -36,8 +36,8 @@
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges3 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges4 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             panel1 = new Panel();
-            panelout = new Panel();
             PanelNotif = new Guna.UI2.WinForms.Guna2CustomGradientPanel();
+            panelout = new Panel();
             label14 = new Label();
             pictureBox5 = new PictureBox();
             label12 = new Label();
@@ -79,19 +79,11 @@
             panel1.Controls.Add(PanelNotif);
             panel1.Controls.Add(panel2);
             panel1.Location = new Point(0, 0);
+            panel1.Margin = new Padding(3, 4, 3, 4);
             panel1.Name = "panel1";
-            panel1.Size = new Size(1264, 681);
+            panel1.Size = new Size(1445, 908);
             panel1.TabIndex = 0;
             panel1.Paint += panel1_Paint;
-            // 
-            // panelout
-            // 
-            panelout.BackColor = Color.White;
-            panelout.Location = new Point(1076, 105);
-            panelout.Name = "panelout";
-            panelout.Size = new Size(185, 198);
-            panelout.TabIndex = 3;
-            panelout.Visible = false;
             // 
             // PanelNotif
             // 
@@ -111,30 +103,43 @@
             PanelNotif.Controls.Add(label7);
             PanelNotif.Controls.Add(label6);
             PanelNotif.CustomizableEdges = customizableEdges5;
-            PanelNotif.Location = new Point(867, 106);
+            PanelNotif.Location = new Point(991, 141);
+            PanelNotif.Margin = new Padding(3, 4, 3, 4);
             PanelNotif.Name = "PanelNotif";
             PanelNotif.ShadowDecoration.CustomizableEdges = customizableEdges6;
-            PanelNotif.Size = new Size(343, 563);
+            PanelNotif.Size = new Size(392, 751);
             PanelNotif.TabIndex = 2;
             PanelNotif.Visible = false;
             PanelNotif.Paint += PanelNotif_Paint;
+            // 
+            // panelout
+            // 
+            panelout.BackColor = Color.White;
+            panelout.Location = new Point(1206, 141);
+            panelout.Margin = new Padding(3, 4, 3, 4);
+            panelout.Name = "panelout";
+            panelout.Size = new Size(239, 289);
+            panelout.TabIndex = 3;
+            panelout.Visible = false;
+            panelout.Paint += panelout_Paint;
             // 
             // label14
             // 
             label14.AutoSize = true;
             label14.Font = new Font("Montserrat", 12F, FontStyle.Regular, GraphicsUnit.Point);
-            label14.Location = new Point(79, 306);
+            label14.Location = new Point(90, 408);
             label14.Name = "label14";
-            label14.Size = new Size(158, 22);
+            label14.Size = new Size(199, 27);
             label14.TabIndex = 12;
             label14.Text = "Kode Pembayaran";
             // 
             // pictureBox5
             // 
             pictureBox5.Image = (Image)resources.GetObject("pictureBox5.Image");
-            pictureBox5.Location = new Point(14, 257);
+            pictureBox5.Location = new Point(16, 343);
+            pictureBox5.Margin = new Padding(3, 4, 3, 4);
             pictureBox5.Name = "pictureBox5";
-            pictureBox5.Size = new Size(44, 50);
+            pictureBox5.Size = new Size(50, 67);
             pictureBox5.SizeMode = PictureBoxSizeMode.CenterImage;
             pictureBox5.TabIndex = 11;
             pictureBox5.TabStop = false;
@@ -143,9 +148,9 @@
             // 
             label12.AutoSize = true;
             label12.Font = new Font("Montserrat", 12F, FontStyle.Regular, GraphicsUnit.Point);
-            label12.Location = new Point(79, 284);
+            label12.Location = new Point(90, 379);
             label12.Name = "label12";
-            label12.Size = new Size(165, 22);
+            label12.Size = new Size(208, 27);
             label12.TabIndex = 10;
             label12.Text = "Kode Pembayaran :";
             // 
@@ -154,9 +159,9 @@
             label13.AutoSize = true;
             label13.Font = new Font("Montserrat SemiBold", 12F, FontStyle.Bold, GraphicsUnit.Point);
             label13.ForeColor = Color.FromArgb(8, 102, 255);
-            label13.Location = new Point(67, 257);
+            label13.Location = new Point(77, 343);
             label13.Name = "label13";
-            label13.Size = new Size(199, 22);
+            label13.Size = new Size(246, 27);
             label13.TabIndex = 9;
             label13.Text = "User telah membeli ini";
             label13.Click += label13_Click;
@@ -174,10 +179,11 @@
             guna2Button2.FillColor = Color.FromArgb(221, 221, 221);
             guna2Button2.Font = new Font("Montserrat SemiBold", 9.749999F, FontStyle.Bold, GraphicsUnit.Point);
             guna2Button2.ForeColor = Color.FromArgb(8, 102, 255);
-            guna2Button2.Location = new Point(209, 214);
+            guna2Button2.Location = new Point(239, 285);
+            guna2Button2.Margin = new Padding(3, 4, 3, 4);
             guna2Button2.Name = "guna2Button2";
             guna2Button2.ShadowDecoration.CustomizableEdges = customizableEdges2;
-            guna2Button2.Size = new Size(96, 20);
+            guna2Button2.Size = new Size(110, 27);
             guna2Button2.TabIndex = 8;
             guna2Button2.Text = "Batal";
             // 
@@ -194,10 +200,11 @@
             guna2Button1.FillColor = Color.FromArgb(8, 102, 255);
             guna2Button1.Font = new Font("Montserrat SemiBold", 9.749999F, FontStyle.Bold, GraphicsUnit.Point);
             guna2Button1.ForeColor = Color.White;
-            guna2Button1.Location = new Point(35, 214);
+            guna2Button1.Location = new Point(40, 285);
+            guna2Button1.Margin = new Padding(3, 4, 3, 4);
             guna2Button1.Name = "guna2Button1";
             guna2Button1.ShadowDecoration.CustomizableEdges = customizableEdges4;
-            guna2Button1.Size = new Size(153, 20);
+            guna2Button1.Size = new Size(175, 27);
             guna2Button1.TabIndex = 7;
             guna2Button1.Text = "Konfirmasi";
             guna2Button1.Click += guna2Button1_Click;
@@ -205,9 +212,10 @@
             // pictureBox4
             // 
             pictureBox4.Image = (Image)resources.GetObject("pictureBox4.Image");
-            pictureBox4.Location = new Point(14, 73);
+            pictureBox4.Location = new Point(16, 97);
+            pictureBox4.Margin = new Padding(3, 4, 3, 4);
             pictureBox4.Name = "pictureBox4";
-            pictureBox4.Size = new Size(44, 50);
+            pictureBox4.Size = new Size(50, 67);
             pictureBox4.SizeMode = PictureBoxSizeMode.CenterImage;
             pictureBox4.TabIndex = 6;
             pictureBox4.TabStop = false;
@@ -216,9 +224,9 @@
             // 
             label11.AutoSize = true;
             label11.Font = new Font("Montserrat", 12F, FontStyle.Regular, GraphicsUnit.Point);
-            label11.Location = new Point(79, 175);
+            label11.Location = new Point(90, 233);
             label11.Name = "label11";
-            label11.Size = new Size(104, 22);
+            label11.Size = new Size(125, 27);
             label11.TabIndex = 5;
             label11.Text = "Rp. 100.000";
             // 
@@ -226,9 +234,9 @@
             // 
             label10.AutoSize = true;
             label10.Font = new Font("Montserrat", 12F, FontStyle.Regular, GraphicsUnit.Point);
-            label10.Location = new Point(79, 150);
+            label10.Location = new Point(90, 200);
             label10.Name = "label10";
-            label10.Size = new Size(100, 22);
+            label10.Size = new Size(127, 27);
             label10.TabIndex = 4;
             label10.Text = "Total Harga";
             // 
@@ -236,9 +244,9 @@
             // 
             label9.AutoSize = true;
             label9.Font = new Font("Montserrat", 12F, FontStyle.Regular, GraphicsUnit.Point);
-            label9.Location = new Point(79, 125);
+            label9.Location = new Point(90, 167);
             label9.Name = "label9";
-            label9.Size = new Size(127, 22);
+            label9.Size = new Size(160, 27);
             label9.TabIndex = 3;
             label9.Text = "Berapa malam";
             // 
@@ -246,9 +254,9 @@
             // 
             label8.AutoSize = true;
             label8.Font = new Font("Montserrat", 12F, FontStyle.Regular, GraphicsUnit.Point);
-            label8.Location = new Point(79, 100);
+            label8.Location = new Point(90, 133);
             label8.Name = "label8";
-            label8.Size = new Size(106, 22);
+            label8.Size = new Size(132, 27);
             label8.TabIndex = 2;
             label8.Text = "Nama Hotel";
             // 
@@ -256,9 +264,9 @@
             // 
             label7.AutoSize = true;
             label7.Font = new Font("Montserrat SemiBold", 12F, FontStyle.Bold, GraphicsUnit.Point);
-            label7.Location = new Point(67, 73);
+            label7.Location = new Point(77, 97);
             label7.Name = "label7";
-            label7.Size = new Size(152, 22);
+            label7.Size = new Size(188, 27);
             label7.TabIndex = 1;
             label7.Text = "User membeli ini";
             // 
@@ -267,9 +275,9 @@
             label6.AutoSize = true;
             label6.BackColor = Color.Transparent;
             label6.Font = new Font("Montserrat SemiBold", 17.9999981F, FontStyle.Bold, GraphicsUnit.Point);
-            label6.Location = new Point(14, 14);
+            label6.Location = new Point(16, 19);
             label6.Name = "label6";
-            label6.Size = new Size(133, 33);
+            label6.Size = new Size(164, 41);
             label6.TabIndex = 0;
             label6.Text = "Notifikasi";
             // 
@@ -287,17 +295,19 @@
             panel2.Controls.Add(pictureBox1);
             panel2.Dock = DockStyle.Top;
             panel2.Location = new Point(0, 0);
+            panel2.Margin = new Padding(3, 4, 3, 4);
             panel2.Name = "panel2";
-            panel2.Size = new Size(1264, 100);
+            panel2.Size = new Size(1445, 133);
             panel2.TabIndex = 0;
+            panel2.Paint += panel2_Paint;
             // 
             // label5
             // 
             label5.AutoSize = true;
             label5.Font = new Font("Montserrat SemiBold", 14.25F, FontStyle.Bold, GraphicsUnit.Point);
-            label5.Location = new Point(925, 37);
+            label5.Location = new Point(1057, 49);
             label5.Name = "label5";
-            label5.Size = new Size(89, 26);
+            label5.Size = new Size(112, 33);
             label5.TabIndex = 11;
             label5.Text = "Lainnya";
             // 
@@ -305,9 +315,9 @@
             // 
             label4.AutoSize = true;
             label4.Font = new Font("Montserrat SemiBold", 14.25F, FontStyle.Bold, GraphicsUnit.Point);
-            label4.Location = new Point(732, 37);
+            label4.Location = new Point(837, 49);
             label4.Name = "label4";
-            label4.Size = new Size(146, 26);
+            label4.Size = new Size(182, 33);
             label4.TabIndex = 10;
             label4.Text = "Status Kamar";
             // 
@@ -315,9 +325,9 @@
             // 
             label3.AutoSize = true;
             label3.Font = new Font("Montserrat SemiBold", 14.25F, FontStyle.Bold, GraphicsUnit.Point);
-            label3.Location = new Point(527, 37);
+            label3.Location = new Point(602, 49);
             label3.Name = "label3";
-            label3.Size = new Size(157, 26);
+            label3.Size = new Size(196, 33);
             label3.TabIndex = 9;
             label3.Text = "Database User";
             // 
@@ -325,9 +335,9 @@
             // 
             label2.AutoSize = true;
             label2.Font = new Font("Montserrat SemiBold", 14.25F, FontStyle.Bold, GraphicsUnit.Point);
-            label2.Location = new Point(413, 37);
+            label2.Location = new Point(472, 49);
             label2.Name = "label2";
-            label2.Size = new Size(58, 26);
+            label2.Size = new Size(73, 33);
             label2.TabIndex = 8;
             label2.Text = "Staff";
             // 
@@ -335,9 +345,10 @@
             // 
             pictureBox3.Dock = DockStyle.Right;
             pictureBox3.Image = (Image)resources.GetObject("pictureBox3.Image");
-            pictureBox3.Location = new Point(1119, 0);
+            pictureBox3.Location = new Point(1279, 0);
+            pictureBox3.Margin = new Padding(3, 4, 3, 4);
             pictureBox3.Name = "pictureBox3";
-            pictureBox3.Size = new Size(74, 100);
+            pictureBox3.Size = new Size(85, 133);
             pictureBox3.SizeMode = PictureBoxSizeMode.CenterImage;
             pictureBox3.TabIndex = 7;
             pictureBox3.TabStop = false;
@@ -348,9 +359,10 @@
             // 
             pictureBox2.Dock = DockStyle.Right;
             pictureBox2.Image = (Image)resources.GetObject("pictureBox2.Image");
-            pictureBox2.Location = new Point(1193, 0);
+            pictureBox2.Location = new Point(1364, 0);
+            pictureBox2.Margin = new Padding(3, 4, 3, 4);
             pictureBox2.Name = "pictureBox2";
-            pictureBox2.Size = new Size(71, 100);
+            pictureBox2.Size = new Size(81, 133);
             pictureBox2.SizeMode = PictureBoxSizeMode.CenterImage;
             pictureBox2.TabIndex = 6;
             pictureBox2.TabStop = false;
@@ -360,29 +372,32 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Montserrat SemiBold", 14.25F, FontStyle.Bold, GraphicsUnit.Point);
-            label1.Location = new Point(294, 37);
+            label1.Location = new Point(336, 49);
             label1.Name = "label1";
-            label1.Size = new Size(71, 26);
+            label1.Size = new Size(89, 33);
             label1.TabIndex = 2;
             label1.Text = "Home";
+            label1.Click += label1_Click;
             // 
             // pictureBox1
             // 
             pictureBox1.Dock = DockStyle.Left;
             pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
             pictureBox1.Location = new Point(0, 0);
+            pictureBox1.Margin = new Padding(3, 4, 3, 4);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(180, 100);
+            pictureBox1.Size = new Size(206, 133);
             pictureBox1.SizeMode = PictureBoxSizeMode.CenterImage;
             pictureBox1.TabIndex = 1;
             pictureBox1.TabStop = false;
             // 
             // Form1
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(1264, 681);
+            ClientSize = new Size(1445, 908);
             Controls.Add(panel1);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "Form1";
             Text = "Form1";
             TextChanged += Form1_TextChanged;

@@ -11,6 +11,7 @@ namespace homepage_admin
         private Rectangle reclbl3;
         private Rectangle reclbl4;
         private Rectangle reclbl5;
+        private Rectangle recpnlout;
         public Form1()
         {
             InitializeComponent();
@@ -24,6 +25,7 @@ namespace homepage_admin
             reclbl3 = new Rectangle(label3.Location, label3.Size);
             reclbl4 = new Rectangle(label4.Location, label4.Size);
             reclbl5 = new Rectangle(label5.Location, label5.Size);
+            recpnlout = new Rectangle(panelout.Location, panelout.Size);
         }
 
         private void label13_Click(object sender, EventArgs e)
@@ -41,6 +43,7 @@ namespace homepage_admin
             resize_Control(label3, reclbl3);
             resize_Control(label4, reclbl4);
             resize_Control(label5, reclbl5);
+            resize_Control(panelout, recpnlout);
         }
         private void resize_Control(Control c, Rectangle r)
         {
@@ -70,7 +73,7 @@ namespace homepage_admin
                 PanelNotif.Show();
                 notifikasi = true;
             }
-            
+
 
         }
         private void hidenotif()
@@ -97,11 +100,7 @@ namespace homepage_admin
 
         private void panel3_DoubleClick(object sender, EventArgs e)
         {
-            //Form2 fm2 = new Form2();
-            //fm2.TopLevel = false;
-            //fm2.FormBorderStyle = FormBorderStyle.None;
-            //this.panel3.Controls.Add(fm2);
-            //fm2.Show();
+
         }
 
         private void guna2Button1_Click(object sender, EventArgs e)
@@ -129,22 +128,15 @@ namespace homepage_admin
             }
             else
             {
-                
                 panelout.Show();
-                Form2 fm2 = new Form2();
-                fm2.TopLevel = false;
-                fm2.FormBorderStyle = FormBorderStyle.None;
-                this.panelout.Controls.Add(fm2);
-                fm2.Show();
+                Form2 profil = new Form2();
+                profil.TopLevel = false;
+                profil.FormBorderStyle = FormBorderStyle.None;
+                this.panelout.Controls.Add(profil);
+                profil.Show();
                 pictureprofil = true;
             }
-            //panelout.Show();
-            //Form2 fm2 = new Form2();
-            //fm2.TopLevel = false;
-            //fm2.FormBorderStyle = FormBorderStyle.None;
-            //this.panelout.Controls.Add(fm2);
-            //fm2.Show();
-            //hidenotif();
+            hidenotif();
         }
 
         private void groupBox1_Enter(object sender, EventArgs e)
@@ -153,6 +145,21 @@ namespace homepage_admin
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void panel2_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void panelout_Paint(object sender, PaintEventArgs e)
         {
 
         }
